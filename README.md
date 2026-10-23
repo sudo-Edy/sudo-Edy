@@ -1,29 +1,20 @@
-# Edy Juarez Domingo
+# Hi, I'm Edy
 
-MIS student at the University of Nebraska at Omaha (GPA 3.77) with minors in Cybersecurity,
-Computer Science, and Logistics and Supply Chain Management. Bilingual in English and Spanish.
-I build software I actually use every day, mostly full-stack web apps, AI tools and security tooling.
+MIS student at the University of Nebraska at Omaha, minoring in Cybersecurity and Computer Science.
+I build tools I use every day: full-stack web apps, AI video tools and security tooling.
 
-📫 [linkedin.com/in/edyjuarez](https://linkedin.com/in/edyjuarez)
+[LinkedIn](https://linkedin.com/in/edyjuarez)
 
-## Public projects
+### Public projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**RepoGuard**](https://github.com/sudo-Edy/repoguard) | Checks a GitHub repo or npm/PyPI package for credential theft, exfiltration and hidden code *before* you install it, without running any of it | Python (standard library only) |
-| [**shorts-clipper**](https://github.com/sudo-Edy/shorts-clipper) | Finds the best moments in a long recording and renders finished vertical Shorts with word-by-word captions | Python, faster-whisper (GPU), ffmpeg/NVENC |
-| [**BLOCKPARTY: Island Siege**](https://blockparty.edybruv.chatgpt.site) | Multiplayer browser game, my entry in the Handshake x OpenAI game challenge. Join by room code from any phone | TypeScript, Three.js, Cloudflare |
-| [**Silent Scene Studios**](https://silentscenestudios.com) | Bilingual photography studio site with a booking inquiry flow, package pricing editor and local SEO | Next.js, Supabase, Vercel |
+- **[RepoGuard](https://github.com/sudo-Edy/repoguard)**: checks a repo or npm/PyPI package for malware before you install it. *Python*
+- **[shorts-clipper](https://github.com/sudo-Edy/shorts-clipper)**: turns long recordings into captioned vertical Shorts. *Python, Whisper*
+- **[BLOCKPARTY](https://blockparty.edybruv.chatgpt.site)**: multiplayer browser game, played by room code from any phone. *TypeScript*
 
-## Private projects (available to walk through in an interview)
+### Private projects
 
-These repos are private because they hold customer data, business information or keys.
+These hold customer data or keys, so the code is private. Happy to walk through them in an interview.
 
-- **JAJD Estimate**: field estimating app a painting and tree service crew uses daily from their phones. Offline-ready, fully English/Spanish, row-level security on every table. *React, TypeScript, Supabase, Cloudflare Workers*
-- **Tally**: full-stack operations dashboard with scheduled web scans, a calibrated classifier for ranking leads, a remote MCP server, 100+ test files and CI/CD. *Next.js, TypeScript, Supabase, Cloudflare*
-- **CreatorOS**: AI video production desktop app (570+ commits) that goes from a video idea to a rendered video, routing each AI task to the cheapest capable provider. *Electron, Node.js, Python*
-- **CutPilot**: DaVinci Resolve plugin that transcribes footage, cuts dead air and filler, and builds a clean timeline. *Python, Whisper*
-
-## Tools I work with
-
-Python · TypeScript · JavaScript · SQL · React · Next.js · Node.js · Electron · Supabase/Postgres · Cloudflare Workers · Vercel · GitHub Actions · Docker · Vitest · Playwright
+- **JAJD Estimate**: estimating app a painting crew uses daily. *React, Supabase*
+- **Tally**: full-stack operations dashboard with CI/CD. *Next.js, Supabase*
+- **CreatorOS**: AI video production desktop app. *Electron, Node.js*
